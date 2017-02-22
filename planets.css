@@ -15,6 +15,7 @@ h1 {
 	font-family: baccus;
 	font-size: 140px;
 	color: gold;
+	text-decoration: underline;
 }
 
 .btn {
@@ -49,7 +50,6 @@ h1 {
 
 .planetBox{
 
-  border: 1px solid white;
   display: inline-block;
   height: 300px;
   width:  300px;
@@ -62,6 +62,19 @@ h1 {
   font-weight: 800;
   position: absolute;
   margin-top: 125px;
+  width: inherit;
 
+}
+
+.planetImage {
+
+  height: 250px;
+  width:  250px;
+  margin-top: 30px;
+
+}
+
+.hidden {
+  display: none; 
 }
 
