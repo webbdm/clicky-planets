@@ -1,0 +1,49 @@
+* {
+
+color: white;
+
+}
+
+body {
+
+	background-color: black;
+}
+
+h1 {
+
+	text-align: center;
+	font-family: baccus;
+	font-size: 140px;
+	color: gold;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #171417;
+  font-size: 36px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: solid #080808 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.planet-holderDIV {
+
+  text-align: center;
+  margin-top: 25px;
+
+}
+
