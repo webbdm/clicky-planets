@@ -47,3 +47,21 @@ h1 {
 
 }
 
+.planetBox{
+
+  border: 1px solid white;
+  display: inline-block;
+  height: 300px;
+  width:  300px;
+  margin: 20px;
+}
+
+.planetName {
+  text-align:  center;
+  font-size: 40px;
+  font-weight: 800;
+  position: absolute;
+  margin-top: 125px;
+
+}
+

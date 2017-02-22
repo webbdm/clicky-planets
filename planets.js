@@ -43,7 +43,7 @@ var array = [];
 
 
 function writeToDom(){
-
+	planetHolder.innerHTML = ""; // Wipes the DIV & resets
 	for (var i = 0; i < planets.length; i++) {
 		
 		var newPlanet="";
